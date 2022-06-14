@@ -1,2 +1,2 @@
 oksiap
-ok gak jadi
+ok gak jadi.txt
